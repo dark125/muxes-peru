@@ -1,7 +1,7 @@
 # ISDB-T custom channel frequencies for Lima/Peru
 #
 #
-# CANAL 16, TV PERU HD, TV PERU SD, TV NOTICIAS,IPE  
+# CANAL 16, TV PERU HD, TV PERU SD, TV NOTICIAS, IPE  
 #
 [CHANNEL]
 	DELIVERY_SYSTEM = ISDBT
